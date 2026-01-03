@@ -24,6 +24,7 @@ This project is built to demonstrate real-world application architecture, UI des
 - Tailwind CSS
 - Framer Motion
 - Axios
+- JavaScript
 
 ### Backend
 - Node.js
